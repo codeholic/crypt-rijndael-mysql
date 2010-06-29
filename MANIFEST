@@ -1,0 +1,6 @@
+Changes
+lib/Crypt/Rijndael/MySQL.pm
+Makefile.PL
+MANIFEST
+README
+t/Crypt-Rijndael-MySQL.t
