@@ -3,8 +3,6 @@ use warnings;
 
 package Crypt::Rijndael::MySQL;
 
-use Crypt::Rijndael;
-
 use base 'Crypt::Rijndael';
 
 our $VERSION = '0.01';
