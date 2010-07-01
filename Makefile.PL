@@ -10,5 +10,5 @@ WriteMakefile(
         'Test::More'        => 0.94,
     },
     ABSTRACT_FROM   => 'lib/Crypt/Rijndael/MySQL.pm',
-    AUTHOR          => 'Ivan Fomichev <ifomichev@cpan.org>') : ()),
+    AUTHOR          => 'Ivan Fomichev <ifomichev@cpan.org>',
 );
